@@ -1,4 +1,4 @@
-# PrivateRouter OpenWRT WireGuard setup with TorGuard VPN
+# PrivateRouter OpenWRT WireGuard setup w/ TorGuard VPN
 <p>PrivateRouter offers an easy WireGuard VPN setup tool compatible with TorGuard's VPN config generator. This is the fastest and easiest way to get TorGuard's WireGuard service up and running on your router. This tutorial will show step by step how to generate a wireguard config and add the settings onto your router.</p>
 <p>1.) First, visit the TorGuard members area and access the <a href="https://torguard.net/tgconf.php?action=vpn-openvpnconfig" target="_blank" rel="noopener">VPN config generator tool</a>. Under VPN tunnel type select WireGuard, choose your VPN server location then type your TorGuard VPN username in the username box. Click the Generate config button.</p>
 <p><img src="https://privaterouter.com/members/index.php/images/kb/66_wg1.png" alt="" width="1152" height="757" /></p>
